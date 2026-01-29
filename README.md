@@ -75,9 +75,10 @@ This repository currently focuses on **analysis and modeling**, with the dashboa
 
 * [x] Dataset acquisition
 * [x] Initial exploratory data analysis
-* [ ] Data cleaning and feature engineering
-* [ ] Model training and evaluation
+* [x] Data cleaning and feature engineering
+* [x] Model training and evaluation
 * [ ] Dashboard development
+
 
 
 
